@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
               <FaGithub size={28} />
             </a>
             <a
-              href="https://linkedin.com/in/seetharam-g"
+              href="https://www.linkedin.com/in/seetharam-g-81b241352/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-500 hover:text-blue-600 dark:text-slate-400 dark:hover:text-blue-400 transition-colors"

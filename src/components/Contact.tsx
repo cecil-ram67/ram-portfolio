@@ -93,7 +93,7 @@ const Contact: React.FC = () => {
             <div>
               <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-4">Social Profiles</h3>
               <div className="flex space-x-4">
-                <a href="https://linkedin.com/in/seetharam-g" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full flex items-center justify-center text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:border-blue-600 dark:hover:border-blue-400 transition-all shadow-sm">
+                <a href="https://www.linkedin.com/in/seetharam-g-81b241352/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full flex items-center justify-center text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 hover:border-blue-600 dark:hover:border-blue-400 transition-all shadow-sm">
                   <FaLinkedin size={20} />
                 </a>
                 <a href="https://github.com/cecil-ram67" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full flex items-center justify-center text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:border-slate-900 dark:hover:border-white transition-all shadow-sm">
